@@ -1,4 +1,4 @@
-# Controle de Gastos (Java)
+# Controle de Finanças (Java)
 
 Projeto simples em **Java** para praticar programação orientada a objetos e manipulação de listas.  
 O sistema permite **cadastrar, exibir e remover gastos** diretamente no console.
@@ -94,4 +94,5 @@ Data: 25/09/2025
 [GitHub: SRibasDev](https://github.com/SRibasDev)
 
 🚀
+
 
